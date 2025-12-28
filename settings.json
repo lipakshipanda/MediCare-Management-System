@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "WebContent/WEB-INF/lib/**/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
